@@ -1,0 +1,42 @@
+#navbar ul {
+    flex-wrap: wrap;
+}
+
+#home {
+    padding: 5px 20px;
+}
+
+#home p {
+    font-size: 0.8rem;
+}
+
+#home::before {
+    height: 490px;
+}
+
+.services-container h1,
+#clients-container h1 {
+    font-size: 2rem;
+}
+
+#client::before {
+    height: 360px;
+}
+
+.client img {
+    height: 95px;
+}
+
+#contact {
+    margin-top: 35px;
+}
+
+#home .heading-primary {
+    font-size: 1.3rem;
+}
+
+.heading-secondary {
+    font-size: 1.5rem;
+    margin: 5px;
+    font-weight: bold;
+}

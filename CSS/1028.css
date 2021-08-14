@@ -1,0 +1,16 @@
+/* Navbar */
+#navbar {
+    justify-content: center;
+}
+
+#home {
+    padding: 5px 100px;
+}
+
+#home p {
+    font-size: 1.15rem;
+}
+
+#contact-box form {
+    width: 50%;
+}

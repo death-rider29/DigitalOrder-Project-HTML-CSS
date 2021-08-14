@@ -1,0 +1,11 @@
+.client img {
+    height: 90px;
+}
+
+#client::before {
+    height: 695px;
+}
+
+#contact {
+    margin-top: 375px;
+}

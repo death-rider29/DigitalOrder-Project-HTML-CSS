@@ -1,0 +1,12 @@
+#client::before {
+    height: 470px;
+}
+
+#contact {
+    margin-top: 150px;
+}
+
+.services-container h1,
+#clients-container h1 {
+    font-size: 2rem;
+}

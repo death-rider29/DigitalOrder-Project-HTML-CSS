@@ -1,0 +1,15 @@
+#client {
+    flex-wrap: wrap;
+}
+
+#client::before {
+    height: 485px;
+}
+
+#contact {
+    margin-top: 175px;
+}
+
+#contact-box form {
+    width: 65%;
+}

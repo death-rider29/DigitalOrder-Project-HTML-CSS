@@ -1,0 +1,20 @@
+#home .heading-primary {
+    font-size: 1.15rem;
+}
+
+#home {
+    padding: 5px 15px;
+}
+
+.services-container h1,
+#clients-container h1 {
+    font-size: 1.7rem;
+}
+
+#client::before {
+    height: 580px;
+}
+
+#contact {
+    margin-top: 263px;
+}

@@ -1,0 +1,16 @@
+.heading-primary {
+    font-size: 1.75rem;
+}
+
+#client::before {
+    height: 555px;
+}
+
+#contact {
+    margin-top: 232px;
+}
+.heading-secondary {
+    font-size: 1.35rem;
+    margin: 5px;
+    font-weight: bold;
+}
