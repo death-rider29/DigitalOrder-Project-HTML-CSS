@@ -1,0 +1,9 @@
+touch .gitignore						// Will not push the files/folders to GitHub which are saved in this file.
+git connfig --global user.name "Mayank Srivastava"
+git connfig --global user.email "srivastavam482@gmail.com"
+git init							// Initialize the .git inside the project folder
+git add .							// Add all the files to staging area
+git commit -m "Comments"					// Used to commit
+git status							// Tells the status
+git remote add origin <ssh url.git>
+git push origin master						// Pushes the code to repository
